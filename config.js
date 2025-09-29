@@ -46,11 +46,6 @@
     desc: "Offer patients a smart AI portal with video support, feedback tools, and easy self-service options.",
   },
   {
-    img: "images/cctv-room.jpg",
-    title: "New Joiners: Intern Soye and Technical support Joel",
-    desc: "We welcome Soye (IT Intern) and Joel (Technical Support) to the NLCC IT team. Their onboarding has been approved to expand end-user support capabilities to improve response times & support coverage.",
-  },
-  {
     img: "images/cybersec-img.jpg",
     title: "🖥️ New CT-Box Integration with Aria",
     desc: "The successful integration of the new CT-Box with Varian’s Aria platform enables faster image acquisition and more seamless treatment planning.",
@@ -76,3 +71,4 @@
     desc: "Enterprise-grade printers, scanners & laptops have been deployed to enhance speed and reliability.",
   },
 ];
+
